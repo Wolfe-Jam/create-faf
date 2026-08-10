@@ -14,9 +14,9 @@ stack:
   runtime: slotignored
   database: slotignored
   connection: slotignored
-  hosting: "npm registry"
-  build: "slotignored"
-  cicd: "slotignored"
+  hosting: npm registry
+  build: slotignored
+  cicd: slotignored
   monorepo_tool: slotignored
   package_manager: slotignored
   workspaces: slotignored
@@ -27,9 +27,9 @@ stack:
 human_context:
   who: developers who naturally type npm create faf (matching the CLI command pattern)
   what: Create FAF projects - Redirects to @faff/create (Official FAF meta-installer)
-  why: "A memorable npm entry point that redirects to the official @faff/create scaffolder"
+  why: A memorable npm entry point that redirects to the official @faff/create scaffolder
   where: https://github.com/Wolfe-Jam/create-faf
-  when: "Production - published on npm"
+  when: Production - published on npm
   how: bash npm create faf
 monorepo:
   packages_count: slotignored
