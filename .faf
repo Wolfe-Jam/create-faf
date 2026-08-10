@@ -1,0 +1,5 @@
+project:
+  goal: Silent traffic cop - redirects to @faff/create
+metadata:
+  last_claude_sync: 2025-11-16T20:13:08.978Z
+  bi_sync: active

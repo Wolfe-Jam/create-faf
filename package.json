@@ -1,0 +1,44 @@
+{
+  "name": "create-faf",
+  "version": "1.0.1",
+  "description": "Create FAF projects - Redirects to @faff/create (Official FAF meta-installer)",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-faf": "index.js"
+  },
+  "keywords": [
+    "faf",
+    "faff",
+    "create",
+    "installer",
+    "meta-installer",
+    "cli",
+    "mcp",
+    "claude",
+    "ai-context",
+    "project-dna",
+    "anthropic",
+    "model-context-protocol",
+    "organization:faff",
+    "persistent",
+    "persistent-context",
+    "persistent-project-context",
+    "context-on-demand",
+    "ai-readiness"
+  ],
+  "author": "FAF Team <team@faf.one>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wolfe-Jam/create-faf.git"
+  },
+  "homepage": "https://faf.one",
+  "bugs": {
+    "url": "https://github.com/Wolfe-Jam/create-faf/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
