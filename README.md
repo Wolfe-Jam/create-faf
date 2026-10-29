@@ -2,6 +2,8 @@
 
 **Unscoped wrapper for [@faff/create](https://npmjs.com/package/@faff/create)** — catches developers who naturally type `npm create faf`.
 
+⭐ [Star it on GitHub](https://github.com/Wolfe-Jam/create-faf): bookmarks it for you, helps other devs find it too.
+
 [![npm version](https://img.shields.io/npm/v/create-faf)](https://npmjs.com/package/create-faf)
 [![npm downloads](https://img.shields.io/npm/dt/create-faf)](https://npmjs.com/package/create-faf)
 [![license](https://img.shields.io/npm/l/create-faf)](https://github.com/Wolfe-Jam/create-faf/blob/main/LICENSE)
